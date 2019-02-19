@@ -2,18 +2,6 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
 	<name>estadosmex.kmz</name>
-	<Style id="shp2kml">
-		<PolyStyle>  
-   		 	<color>#a00000ff</color>
-  			<outline>0</outline>
-  		</PolyStyle>
-	</Style>
-	<Style id="shp2kml0">
-		<PolyStyle>  
-   		 	<color>#a00000ff</color>
-  			<outline>0</outline>
-  		</PolyStyle>
-	</Style>
 	<StyleMap id="shp2kml1">
 		<PolyStyle>  
    		 	<color>#a00000ff</color>
