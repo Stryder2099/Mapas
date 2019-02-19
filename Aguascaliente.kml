@@ -15,14 +15,10 @@
   		</PolyStyle>
 	</Style>
 	<StyleMap id="shp2kml1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#shp2kml</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#shp2kml0</styleUrl>
-		</Pair>
+		<PolyStyle>  
+   		 	<color>#a00000ff</color>
+  			<outline>0</outline>
+  		</PolyStyle>
 	</StyleMap>
 	<Folder>
 		<name>Estados de la República</name>
