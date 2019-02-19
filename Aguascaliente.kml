@@ -21,7 +21,7 @@
 		<LineStyle>
 		</LineStyle>
 		<PolyStyle>
-			<fill>0</fill>
+			<fill>#ff0000</fill>
 		</PolyStyle>
 	</Style>
 	<Style id="shp2kml0">
@@ -43,7 +43,7 @@
 		<LineStyle>
 		</LineStyle>
 		<PolyStyle>
-			<fill>0</fill>
+			<fill>#ff0000</fill>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="shp2kml1">
