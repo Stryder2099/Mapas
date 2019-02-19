@@ -2,12 +2,6 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
 	<name>estadosmex.kmz</name>
-	<StyleMap id="shp2kml1">
-		<PolyStyle>  
-   		 	<color>#a00000ff</color>
-  			<outline>0</outline>
-  		</PolyStyle>
-	</StyleMap>
 	<Folder>
 		<name>Estados de la República</name>
 		<snippet>Legend: Single Symbol</snippet>
