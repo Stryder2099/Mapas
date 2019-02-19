@@ -21,6 +21,7 @@
 		<LineStyle>
 		</LineStyle>
 		<PolyStyle>
+			<color>#a00000ff</color>
 			<fill>1</fill>
 		</PolyStyle>
 	</Style>
@@ -43,10 +44,16 @@
 		<LineStyle>
 		</LineStyle>
 		<PolyStyle>
+			<color>#a00000ff</color>
 			<fill>1</fill>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="shp2kml1">
+		<PolyStyle>
+			<color>#a00000ff</color>
+			<fill>1</fill>
+		</PolyStyle>
+		<color>#a00000ff</color>
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#shp2kml</styleUrl>
