@@ -2,60 +2,6 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
 	<name>estadosmex.kmz</name>
-	<Style id="shp2kml">
-		<IconStyle>
-			<scale>0.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal4/icon49.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0</scale>
-		</LabelStyle>
-		<BalloonStyle>
-			<text>$[description]</text>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-		<LineStyle>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="shp2kml0">
-		<IconStyle>
-			<scale>0.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal4/icon49.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0</scale>
-		</LabelStyle>
-		<BalloonStyle>
-			<text>$[description]</text>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-		<LineStyle>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="shp2kml1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#shp2kml</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#shp2kml0</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Folder>
 		<name>Estados de la República</name>
 		<snippet>Legend: Single Symbol</snippet>
@@ -65,7 +11,6 @@
 			<snippet></snippet>
 			<Snippet maxLines="0"></Snippet>
 			<description><![CDATA[Estados<br><table border=0 cellpadding=0 cellspacing=0  width=250 style="FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;"><tr><td bgcolor="#E3E1CA" align="right"><font COLOR="#000000"><b>ESTADO</b></font></td><td bgcolor="#E4E6CA"> <font COLOR="#008000">AGUASCALIENTES</font></td></tr></table>]]></description>
-			<styleUrl>#shp2kml1</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
