@@ -7,7 +7,7 @@
         "name": "Baja California",
         "latitude": 30.3399,
         "longitude": -115.209,
-        "state": "02"
+        "estado": "02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -905,7 +905,7 @@
         "name": "Baja California Sur",
         "latitude": 25.0656,
         "longitude": -111.452,
-        "state": "03"
+        "estado": "03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2143,7 +2143,7 @@
         "name": "Coahuila",
         "latitude": 27.4473,
         "longitude": -101.885,
-        "state": "07"
+        "estado": "07"
       },
       "geometry": {
         "type": "Polygon",
@@ -2871,7 +2871,7 @@
         "name": "Chihuahua",
         "latitude": 28.973,
         "longitude": -106.232,
-        "state": "06"
+        "estado": "06"
       },
       "geometry": {
         "type": "Polygon",
@@ -3543,7 +3543,7 @@
         "name": "Durango",
         "latitude": 24.566,
         "longitude": -104.808,
-        "state": 10
+        "estado": 10
       },
       "geometry": {
         "type": "Polygon",
@@ -4199,7 +4199,7 @@
         "name": "Sinaloa",
         "latitude": 25.6041,
         "longitude": -108.001,
-        "state": 25
+        "estado": 25
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4961,7 +4961,7 @@
         "name": "Sonora",
         "latitude": 29.5293,
         "longitude": -110.485,
-        "state": 26
+        "estado": 26
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5831,7 +5831,7 @@
         "name": "Zacatecas",
         "latitude": 23.3785,
         "longitude": -102.579,
-        "state": 32
+        "estado": 32
       },
       "geometry": {
         "type": "Polygon",
@@ -6707,7 +6707,7 @@
         "name": "Nuevo León",
         "latitude": 25.6178,
         "longitude": -99.8307,
-        "state": 19
+        "estado": 19
       },
       "geometry": {
         "type": "Polygon",
@@ -7355,7 +7355,7 @@
         "name": "San Luis Potosí",
         "latitude": 22.4465,
         "longitude": -100.324,
-        "state": 24
+        "estado": 24
       },
       "geometry": {
         "type": "Polygon",
@@ -7967,7 +7967,7 @@
         "name": "Tamaulipas",
         "latitude": 24.0808,
         "longitude": -98.5197,
-        "state": 28
+        "estado": 28
       },
       "geometry": {
         "type": "Polygon",
@@ -8723,7 +8723,7 @@
         "name": "Aguascalientes",
         "latitude": 22.0375,
         "longitude": -102.351,
-        "state": "01"
+        "estado": "01"
       },
       "geometry": {
         "type": "Polygon",
@@ -8875,7 +8875,7 @@
         "name": "Colima",
         "latitude": 19.1325,
         "longitude": -103.915,
-        "state": "08"
+        "estado": "08"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9097,7 +9097,7 @@
         "name": "Jalisco",
         "latitude": 20.3026,
         "longitude": -103.602,
-        "state": 14
+        "estado": 14
       },
       "geometry": {
         "type": "Polygon",
@@ -10109,7 +10109,7 @@
         "name": "Michoacán",
         "latitude": 19.2458,
         "longitude": -101.936,
-        "state": 16
+        "estado": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -10749,7 +10749,7 @@
         "name": "Nayarit",
         "latitude": 21.7934,
         "longitude": -104.824,
-        "state": 18
+        "estado": 18
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11163,7 +11163,7 @@
         "name": "Campeche",
         "latitude": 18.6624,
         "longitude": -90.2807,
-        "state": "04"
+        "estado": "04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11693,7 +11693,7 @@
         "name": "Oaxaca",
         "latitude": 16.94,
         "longitude": -96.2087,
-        "state": 20
+        "estado": 20
       },
       "geometry": {
         "type": "Polygon",
@@ -12465,7 +12465,7 @@
         "name": "Puebla",
         "latitude": 18.549,
         "longitude": -97.8889,
-        "state": 21
+        "estado": 21
       },
       "geometry": {
         "type": "Polygon",
@@ -13169,7 +13169,7 @@
         "name": "Tabasco",
         "latitude": 18.1252,
         "longitude": -92.8274,
-        "state": 32
+        "estado": 32
       },
       "geometry": {
         "type": "Polygon",
@@ -13617,7 +13617,7 @@
         "name": "Tlaxcala",
         "latitude": 19.3956,
         "longitude": -98.161,
-        "state": 29
+        "estado": 29
       },
       "geometry": {
         "type": "Polygon",
@@ -13809,7 +13809,7 @@
         "name": "Distrito Federal",
         "latitude": 19.3266,
         "longitude": -99.1369,
-        "state": "09"
+        "estado": "09"
       },
       "geometry": {
         "type": "Polygon",
@@ -13905,7 +13905,7 @@
         "name": "Guanajuato",
         "latitude": 20.8141,
         "longitude": -100.904,
-        "state": 11
+        "estado": 11
       },
       "geometry": {
         "type": "Polygon",
@@ -14353,7 +14353,7 @@
         "name": "Guerrero",
         "latitude": 17.7608,
         "longitude": -100.091,
-        "state": 12
+        "estado": 12
       },
       "geometry": {
         "type": "Polygon",
@@ -14929,7 +14929,7 @@
         "name": "Hidalgo",
         "latitude": 20.5354,
         "longitude": -98.9221,
-        "state": 13
+        "estado": 13
       },
       "geometry": {
         "type": "Polygon",
@@ -15377,7 +15377,7 @@
         "name": "México",
         "latitude": 19.3275,
         "longitude": -99.7416,
-        "state": 15
+        "estado": 15
       },
       "geometry": {
         "type": "Polygon",
@@ -15781,7 +15781,7 @@
         "name": "Morelos",
         "latitude": 18.742,
         "longitude": -99.0785,
-        "state": 17
+        "estado": 17
       },
       "geometry": {
         "type": "Polygon",
@@ -15985,7 +15985,7 @@
         "name": "Querétaro",
         "latitude": 20.7392,
         "longitude": -99.9663,
-        "state": 22
+        "estado": 22
       },
       "geometry": {
         "type": "Polygon",
@@ -16285,7 +16285,7 @@
         "name": "Veracruz",
         "latitude": 19.0926,
         "longitude": -96.5953,
-        "state": 30
+        "estado": 30
       },
       "geometry": {
         "type": "Polygon",
@@ -17349,7 +17349,7 @@
         "name": "Chiapas",
         "latitude": 16.527,
         "longitude": -92.581,
-        "state": "05"
+        "estado": "05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17839,7 +17839,7 @@
         "name": "Quintana Roo",
         "latitude": 19.3861,
         "longitude": -88.344,
-        "state": 23
+        "estado": 23
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18517,7 +18517,7 @@
         "name": "Yucatán",
         "latitude": 20.663,
         "longitude": -88.9836,
-        "state": 31
+        "estado": 31
       },
       "geometry": {
         "type": "Polygon",
