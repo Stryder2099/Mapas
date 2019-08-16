@@ -13169,7 +13169,7 @@
         "latitude": 18.1252,
         "longitude": -92.8274,
         "NAME": "Tabasco",
-        "STATE": 32
+        "STATE": 27
       },
       "geometry": {
         "type": "Polygon",
